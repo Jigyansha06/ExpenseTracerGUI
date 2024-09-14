@@ -18,7 +18,7 @@ Personal Expense Tracker is a Java application designed to help users manage the
    ```bash
    git clone https://github.com/Jigyansha06/PersonalExpenseTracker.git
 
-   Contact
+
 Author: Jigyansha Mohapatra
 GitHub Profile: Jigyansha06
 
